@@ -9,7 +9,7 @@ Pcb打板文件请参考（board文件夹）内含了顶壳、底壳、和嘉立
 组装过程不在赘述，看心情定制您自己的小工具即可。固件烧录完成后，手机端浏览器搜索192.168.1.1进入管理后台，即可进行攻击测试
 
 # 项目二：带OLED屏幕版本
-使用bw16的模块+oled屏幕，如有特殊需要，可以参考这篇链接https://github.com/buke18/5G-Wi-Fi-deauth-can-support-flipper-zero-将此模块加入flipper zero中使用，链接里面已经制作了flipperzero相关软件
+使用bw16的模块+oled屏幕，如有特殊需要，可以参考这篇链接https://github.com/buke18/5G-Wi-Fi-deauth-can-support-flipper-zero-   将此模块加入flipper zero中使用，链接里面已经制作了flipperzero相关软件
 # 接线图如下：
 ![1](https://github.com/user-attachments/assets/ac806e52-104d-47c0-b187-b061f9f06223)
 ![2](https://github.com/user-attachments/assets/128850cc-548e-4e05-a527-ba07454f209b)
