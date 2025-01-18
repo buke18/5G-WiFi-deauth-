@@ -15,6 +15,7 @@ Pcb打板文件请参考（board文件夹）内含了顶壳、底壳、和嘉立
 ![2](https://github.com/user-attachments/assets/128850cc-548e-4e05-a527-ba07454f209b)
 烧录固件的教程大同小异，这里不做介绍了
 烧录器和固件请参考名字中有【项目二：xxx】的文件
+https://oshwhub.com/yanqisui/rtl8720dn-5g-wifi-kai-fa-ban-bw16
 # 指示灯
 大多数开发板都有的 RGB LED。这是不同颜色的指示：
 红色：系统状态。当系统可用时亮起。
