@@ -13,7 +13,6 @@ Pcb打板文件请参考（board文件夹）内含了顶壳、底壳、和嘉立
 # 接线图如下：
 ![1](https://github.com/user-attachments/assets/ac806e52-104d-47c0-b187-b061f9f06223)
 ![2](https://github.com/user-attachments/assets/128850cc-548e-4e05-a527-ba07454f209b)
-![3](https://github.com/user-attachments/assets/23adfd8b-85ac-46d1-8c8c-619f0442a319)
 烧录固件的教程大同小异，这里不做介绍了
 烧录器和固件请参考名字中有【项目二：xxx】的文件
 
